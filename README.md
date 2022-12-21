@@ -18,7 +18,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="www.linkedin.com/in/ismet-şükrü-ataman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ismet-%c5%9f%c3%bckr%c3%bc-ataman-8996251b1/" height="30" width="30" /></a>
+<a href="www.linkedin.com/in/ismet-şükrü-ataman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/ismet-şükrü-ataman" height="30" width="30" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
