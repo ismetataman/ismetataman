@@ -1,3 +1,6 @@
+![MasterHead](https://user-images.githubusercontent.com/59177523/208890498-9c25db48-67f3-403f-8149-5377d9798e99.png)
+
+
 <h1 align="center">Hi 👋, I'm Ismet Sukru Ataman</h1>
 <h3 align="center">A passionate game developer from Turkey</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/qJ5evVs-_uUAAAAC/coding.gif">
