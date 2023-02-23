@@ -10,7 +10,7 @@
 
 - 👨‍💻 All of my projects are available at [https://ismetataman.wixsite.com/portfolio](https://ismetataman.wixsite.com/portfolio)
 
-- 💬 Ask me about **Hyper-Casual, Mobile Games**
+- 💬 Ask me about **Hyper-Casual,Casual,Mobile Games**
 
 - 📫 How to reach me **ismetsukruataman@gmail.com**
 
