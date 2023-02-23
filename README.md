@@ -4,9 +4,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ismetataman&label=Profile%20views&color=0e75b6&style=flat" alt="ismetataman" /> </p>
 
-- 🔭 I’m currently working on **Hyper-Casual Games**
+- 🔭 I’m currently working on **Casual Games**
 
-- 🌱 I’m currently learning **Casual Games**
+- 🌱 I’m currently learning **Casual Games Core Mechanics**
 
 - 👨‍💻 All of my projects are available at [https://ismetataman.wixsite.com/portfolio](https://ismetataman.wixsite.com/portfolio)
 
