@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **Casual Games**
 
-- 🌱 I’m currently learning **Casual Games Core Mechanics**
+- 🌱 I’m currently learning **Casual Games Core Mechanics && AI**
 
 - 👨‍💻 All of my projects are available at [https://ismetataman.wixsite.com/portfolio](https://ismetataman.wixsite.com/portfolio)
 
